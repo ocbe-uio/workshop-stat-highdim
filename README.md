@@ -1,12 +1,12 @@
-# workshop-stat-highdim
+# Statistical Principles in Machine Learning for Small Biomedical Data
 
-Workshop website for Statistical Principles in Machine Learning for Small Biomedical Data
+Workshop website for **Statistical Principles in Machine Learning for Small Biomedical Data**
 
-Date: Tuesday 13 December 2022, 9:00-12:00
+Date: Monday 11 December 2023, 9:00-12:00
 
-Room: Python (room 2269), Ole-Johan Dahls hus (OJD)
+Room: Perl (room 2453), Ole-Johan Dahls hus (OJD)
 
-Instructors: Manuela Zucknick (main), Theophilus Asenso and Chi Zhang
+Instructors: Manuela Zucknick (main), Theophilus Asenso
 
-Workshop website: https://ocbe-uio.github.io/2022_bioinformatics_workshop/
+Workshop website: https://ocbe-uio.github.io/workshop-stat-highdim
 

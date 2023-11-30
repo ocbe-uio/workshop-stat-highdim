@@ -2,7 +2,7 @@
 title: "Statistical Principles in Machine Learning for Small Biomedical Data"
 ---
 
-Date: **Mondayy 11 December 2023, 9:00-12:00**
+Date: **Monday 11 December 2023, 9:00-12:00**
 
 Room: **Perl (room 2453), Ole-Johan Dahls hus (OJD)**
 
