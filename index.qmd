@@ -1,0 +1,40 @@
+---
+title: "Statistical Principles in Machine Learning for Small Biomedical Data"
+---
+
+Date: **Mondayy 11 December 2023, 9:00-12:00**
+
+Room: **Perl (room 2453), Ole-Johan Dahls hus (OJD)**
+
+Instructors: Manuela Zucknick (main), Theophilus Asenso
+
+------------------------------------------------------------------------
+
+# Welcome!
+
+-   The goal of the workshop is to introduce kep concepts in machine learning, such as regularisation.
+-   The workshop is intended for students and researchers who are interested in applying machine learning methods to **small data** (few samples, but potentially many features) or **noisy data** (e.g. biomedical data)
+-   Workshop material can be found in the workshop [github repository](https://github.com/ocbe-uio/workshop-stat-highdim).
+
+#### Learning Objectives
+
+At the end of the tutorial, participants will be able to
+
+-   understand key concepts for training machine learning models such as regularisation;
+-   understand how to incorporate data structure in the regularisation process.
+
+#### Pre-requisites
+
+-   Basic familiarity with R
+-   Introductory level statistics, including regression
+
+# Schedule
+
+|     Time      |                                              Topic                                              |     Presenter     |
+|:-------------:|:-----------------------------------------------------------------------------------------------:|:-----------------:|
+|      Now      |                                 [Preparations](part0_prep.qmd)                                  |                   |
+| 9:00 - 10:00  |     [(Supervised) machine learning with small data](/lecture_notes/StatPrinciples_ML_1.pdf)     | Manuela Zucknick  |
+|               |                                    [R lab 1](part1_eda.qmd)                                     | Manuela Zucknick  |
+| 10:15 - 11:15 |       [Overfitting, regularisation and all that](/lecture_notes/StatPrinciples_ML_2.pdf)        | Manuela Zucknick  |
+|               |                                   [R lab 2](part2_model.qmd)                                    | Manuela Zucknick  |
+| 11:30 - 12:00 | [Outlook: Hierarchical models and structured penalties](/lecture_notes/StatPrinciples_ML_3.pdf) | Theophilus Asenso |
