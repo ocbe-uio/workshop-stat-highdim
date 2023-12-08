@@ -37,4 +37,4 @@ At the end of the tutorial, participants will be able to
 |               |                                    [R lab 1](part1_eda.qmd)                                     | Manuela Zucknick  |
 | 10:15 - 11:15 |       [Overfitting, regularisation and all that](/lecture_notes/StatPrinciples_ML_2.pdf)        | Manuela Zucknick  |
 |               |                                   [R lab 2](part2_model.qmd)                                    | Manuela Zucknick  |
-| 11:30 - 12:00 | [Outlook: Hierarchical models and structured penalties](/lecture_notes/StatPrinciples_ML_3.pdf) | Theophilus Asenso |
+| 11:30 - 12:00 | [Hierarchical models and structured penalties](/lecture_notes/Theo.pdf) | Theophilus Asenso |
