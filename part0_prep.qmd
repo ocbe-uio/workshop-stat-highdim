@@ -4,7 +4,6 @@ format:
   html:
     code-fold: false
     code-tools: false
-editor: visual
 ---
 
 Here are some preparation information for the participants.
@@ -24,23 +23,23 @@ In this workshop we will be using R. You can either
 
 The R package we are using is `glmnet`. Otherwise, we use base R packages which are already installed by default. We will also need R package `gclus` for one of the tasks (not essential for running other parts of the lab). You can install the packages by running the following code:
 
-```
+```         
 install.packages("glmnet")
 install.packages("gclus")
 ```
 
 ## Data
 
-The datasets we use can be found [here](https://github.com/ocbe-uio/2022_bioinformatics_workshop/tree/main/lab/data).
+The datasets we use can be found [here](https://github.com/ocbe-uio/workshop-stat-highdim/tree/main/lab/data).
 
 ## Code
 
-The R scripts used in part 1 and part 2 can be found [here](https://github.com/ocbe-uio/2022_bioinformatics_workshop/tree/main/lab/code).
+The R scripts used in part 1 and part 2 can be found [here](https://github.com/ocbe-uio/workshop-stat-highdim/tree/main/lab/code).
 
 ## Resources
 
-Lecture notes [link](https://github.com/ocbe-uio/2022_bioinformatics_workshop/tree/main/lecture_notes)
+Lecture notes [link](https://github.com/ocbe-uio/workshop-stat-highdim/tree/main/lecture_notes)
 
-Lab notes [link](https://github.com/ocbe-uio/2022_bioinformatics_workshop/blob/main/lab/StatPrinciples_RLab.pdf)
+Lab notes [link](https://github.com/ocbe-uio/workshop-stat-highdim/blob/main/lab/StatPrinciples_RLab.pdf)
 
-Aure 2015 Paper [link](https://github.com/ocbe-uio/2022_bioinformatics_workshop/blob/main/lab/Aure_2015.pdf)
+Aure 2015 Paper [link](https://github.com/ocbe-uio/workshop-stat-highdim/blob/main/lab/Aure_2015.pdf)

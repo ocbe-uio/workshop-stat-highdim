@@ -4,7 +4,6 @@ format:
   html:
     code-fold: false
     code-tools: true
-editor: visual
 ---
 
 ## A Cancer Modeling Example
@@ -28,7 +27,6 @@ In addition, there are three extra tasks `Task 1`, `Task 2`, `Task 3`, where no 
 install.packages("glmnet")
 install.packages("gclus")
 ```
-
 
 ### Load the data
 
@@ -117,9 +115,9 @@ hist(RHO, col="lightblue")
 
 ## Visualize as heatmap
 
-Use the code provided to visualize the heatmap. 
+Use the code provided to visualize the heatmap.
 
-**Note:** If you get the error message `Error in plot.new() : figure margins too large`, try to increase the *Plots* panel in your RStudio workspace. 
+**Note:** If you get the error message `Error in plot.new() : figure margins too large`, try to increase the *Plots* panel in your RStudio workspace.
 
 ```{r}
 #| echo: true
