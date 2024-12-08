@@ -33,7 +33,7 @@ At the end of the tutorial, participants will be able to
 |     Time      |                                              Topic                                              |     Presenter     |
 |:-------------:|:-----------------------------------------------------------------------------------------------:|:-----------------:|
 |      Now      |                                 [Preparations](part0_prep.qmd)                                  |                   |
-| 13:00 - 14:00  |     [(Supervised) machine learning with small data](/lecture_notes/StatPrinciples_ML_1.pdf)     | Manuela Zucknick  |
+| 13:00 - 14:00 |     [(Supervised) machine learning with small data](/lecture_notes/StatPrinciples_ML_1.pdf)     | Manuela Zucknick  |
 |               |                                    [R lab 1](part1_eda.qmd)                                     | Manuela Zucknick  |
 | 14:15 - 15:15 |       [Overfitting, regularisation and all that](/lecture_notes/StatPrinciples_ML_2.pdf)        | Manuela Zucknick  |
 |               |                                   [R lab 2](part2_model.qmd)                                    | Manuela Zucknick  |
