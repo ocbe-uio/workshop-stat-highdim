@@ -12,7 +12,7 @@ Instructors: Manuela Zucknick (main), Theophilus Asenso
 
 # Welcome!
 
--   The goal of the workshop is to introduce kep concepts in machine learning, such as regularisation.
+-   The goal of the workshop is to introduce key connected concepts in machine learning, such as generalisation, overfitting, bias-variance trade-off and regularisation.
 -   The workshop is intended for students and researchers who are interested in applying machine learning methods to **small data** (few samples, but potentially many features) or **noisy data** (e.g. biomedical data)
 -   Workshop material can be found in the workshop [github repository](https://github.com/ocbe-uio/workshop-stat-highdim).
 
@@ -20,7 +20,7 @@ Instructors: Manuela Zucknick (main), Theophilus Asenso
 
 At the end of the tutorial, participants will be able to
 
--   understand key concepts for training machine learning models such as regularisation;
+-   understand key concepts for training machine learning models on small or noisy data, such as generalisation, overfitting, bias-variance trade-off and regularisation;
 -   understand how to incorporate data structure in the regularisation process.
 
 #### Pre-requisites
