@@ -2,9 +2,9 @@
 
 Workshop website for **Statistical Principles in Machine Learning for Small Biomedical Data**
 
-Date: Monday 11 December 2023, 9:00-12:00
+Date: Tuesday 10 December 2024, 13:00-16:00
 
-Room: Perl (room 2453), Ole-Johan Dahls hus (OJD)
+Room: Prolog (room 2465), Ole-Johan Dahls hus (OJD)
 
 Instructors: Manuela Zucknick (main), Theophilus Asenso
 
