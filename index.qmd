@@ -2,9 +2,9 @@
 title: "Statistical Principles in Machine Learning for Small Biomedical Data"
 ---
 
-Date: **Monday 11 December 2023, 9:00-12:00**
+Date: **Tuesday 10 December 2024, 13:00-16:00**
 
-Room: **Perl (room 2453), Ole-Johan Dahls hus (OJD)**
+Room: **Prolog (room 2465), Ole-Johan Dahls hus (OJD)**
 
 Instructors: Manuela Zucknick (main), Theophilus Asenso
 
@@ -33,8 +33,8 @@ At the end of the tutorial, participants will be able to
 |     Time      |                                              Topic                                              |     Presenter     |
 |:-------------:|:-----------------------------------------------------------------------------------------------:|:-----------------:|
 |      Now      |                                 [Preparations](part0_prep.qmd)                                  |                   |
-| 9:00 - 10:00  |     [(Supervised) machine learning with small data](/lecture_notes/StatPrinciples_ML_1.pdf)     | Manuela Zucknick  |
+| 13:00 - 14:00  |     [(Supervised) machine learning with small data](/lecture_notes/StatPrinciples_ML_1.pdf)     | Manuela Zucknick  |
 |               |                                    [R lab 1](part1_eda.qmd)                                     | Manuela Zucknick  |
-| 10:15 - 11:15 |       [Overfitting, regularisation and all that](/lecture_notes/StatPrinciples_ML_2.pdf)        | Manuela Zucknick  |
+| 14:15 - 15:15 |       [Overfitting, regularisation and all that](/lecture_notes/StatPrinciples_ML_2.pdf)        | Manuela Zucknick  |
 |               |                                   [R lab 2](part2_model.qmd)                                    | Manuela Zucknick  |
-| 11:30 - 12:00 | [Hierarchical models and structured penalties](/lecture_notes/Theo.pdf) | Theophilus Asenso |
+| 15:30 - 16:00 | [Hierarchical models and structured penalties](/lecture_notes/Theo.pdf) | Theophilus Asenso |
