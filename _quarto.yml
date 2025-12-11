@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Oslo Bioinformatics Workshop Week 2024"
+  title: "Oslo Bioinformatics Workshop Week"
   navbar:
     left:
       - href: index.qmd
