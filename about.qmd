@@ -17,6 +17,6 @@ In the hands-on tutorial we will use R to perform an integrated analysis of mult
 
 #### Contact
 
-Manuela Zucknick (lead instructor): manuela.zucknick\@medisin.uio.no
+manuela.zucknick\@medisin.uio.no
 
-Chi Zhang (course website developer): chi.zhang\@medisin.uio.no
+
